@@ -20,7 +20,12 @@ function runAnalysis() {
       .divide(testsetsize) // test whether same bucket prediction matches with the TESTSETSIZE , thus giving percentage of success below.
       .value();
     const accuracyPercentage = accuracy / testsetsize;
-    console.log("for k of ", k, "your accuracy is : ", accuracyPercentage);
+    console.log(
+      "for k value of ",
+      k,
+      "your accuracy is : ",
+      accuracyPercentage,
+    );
   });
 }
 //KNN algorithm implementation in a very crisp manner using LODASH library giving TOP K results giving max non-zero predictions
