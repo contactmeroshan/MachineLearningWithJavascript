@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "plinko",
+  "description": "mainly focussed on LINEAR REGRESSION and CLASSIFICATION algorithm chosen.",
+  "version": "1.0.0",
+  "main": "score.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
