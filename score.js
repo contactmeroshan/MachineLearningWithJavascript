@@ -27,7 +27,7 @@ function runAnalysis() {
 		.first()
 		.parseInt()
 		.value()
-
+//  CONSOLE OUTPUT 
     console.log("most probable bucket number is :", bucket);
 }
 
