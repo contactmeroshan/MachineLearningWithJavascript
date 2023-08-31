@@ -1,5 +1,4 @@
 const outputs = []
-
 const predictionpoint = 300;
 const k = 3;
 
