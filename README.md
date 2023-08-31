@@ -6,7 +6,9 @@ https://jstu.fandom.com/wiki/Plinko_board
 
 keepping all other FEATURES as is, K =10, 11, 12 gave about 20 to 30 percent prediction .
 
-Then narrowing the testing with value of K=10, 11 AND 12, .. with k=10 gave the best result in the console 
+Then narrowing the testing with value of K=10, 11 AND 12.
+With k=10 gave the best result in the console 
+
 feature value 0 meaning BALL POSITION 
 feature value 1 meaning BALL BOUNCINESS 
 feature value 2 meaning BALL SIZE
