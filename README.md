@@ -1,13 +1,13 @@
 # Machine Learning With Javascript
 mainly focussed on LINEAR REGRESSION and CLASSIFICATION algorithm chosen.
 
-## 1) FEATURE(variable) objective analysis with K value using KNN(K nearest neighbour alorithm for our HTML page game- like PLINK game show )
+## 1) FEATURE(variable) objective analysis with K value using KNN(K nearest neighbour algorithm for our HTML page javascript game- like PLINK game show )
 https://jstu.fandom.com/wiki/Plinko_board
 
-keepping all other FEATURES as is, K =10, 11, 12 gave about 20 to 30 percent prediction .
+Keeping all other FEATURES as is, K =10, 11, 12 gave about 20 to 30 percent prediction .
 
 Then narrowing the testing with value of K=10, 11 AND 12.
-With k=10 gave the best result in the console 
+With k=10 gave the best result in the console , by varying other variations(FEATURES)
 
 --FEATURE value 0 meaning BALL POSITION 
 
