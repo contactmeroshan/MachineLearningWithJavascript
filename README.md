@@ -9,9 +9,11 @@ keepping all other FEATURES as is, K =10, 11, 12 gave about 20 to 30 percent pre
 Then narrowing the testing with value of K=10, 11 AND 12.
 With k=10 gave the best result in the console 
 
-feature value 0 meaning BALL POSITION 
-feature value 1 meaning BALL BOUNCINESS 
-feature value 2 meaning BALL SIZE
+--FEATURE value 0 meaning BALL POSITION 
+
+--FEATURE value 1 meaning BALL BOUNCINESS 
+
+--FEATURE value 2 meaning BALL SIZE
 
 BUCKET NUMBER not being FEATURE but rather the LABEL , TO BE PREDICTED as per variations in the FEATURES mentioned above.
 
