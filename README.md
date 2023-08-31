@@ -18,7 +18,7 @@ With k=10 gave the best result in the console
 BUCKET NUMBER not being FEATURE but rather the LABEL , TO BE PREDICTED as per variations in the FEATURES mentioned above.
 
 ## Following console message appears on analysis
-For ###feature value of  0 your accuracy is :  ##0.32
+### For feature value of  0 your accuracy is :  0.32
 
 score.js:28 for feature value of  1 your accuracy is :  0.2
 
