@@ -44,4 +44,4 @@ O choosen for vertical that is column and 1 for row.
 
 <img width="768" alt="image" src="https://github.com/contactmeroshan/MachineLearningWithJavascript/assets/87830296/7328ebe3-a8ad-46d5-8285-9998ca5ba025">
 
-### THE ERROR PERCENT CAME DOWN TO BELOW 20 % just taking four of the FEATURES from the columns (dataColumns: ["lat", "long", "sqft_lot", "sqft_living"]) which is very encouraging. 
+### THE ERROR PERCENT CAME DOWN TO BELOW 20 %(9 out of 10 testing ) by just taking four of the FEATURES from the columns (dataColumns: ["lat", "long", "sqft_lot", "sqft_living"]) which is very encouraging. 
