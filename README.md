@@ -25,7 +25,7 @@ score.js:28 for feature value of  1 your accuracy is :  0.2
 score.js:28 for feature value of  2 your accuracy is :  0.28
 <img width="950" alt="image" src="https://github.com/contactmeroshan/MachineLearningWithJavascript/assets/87830296/666e1c96-e565-4b70-8255-3778419588d0">
 
-## OBJECTIVES ACHIEVED THROUGH THIS EXCERCISE 
+#### OBJECTIVES ACHIEVED THROUGH THIS EXCERCISE 
 1) Difference between FEATURES and LABELS
 2) Difference between TRAINING SET DATA and TEST SET data, and use of each for each other.
 3) NORMALIZATION of data (scaling the scale on a scale of 0 and 1, using MAXIMUM and MINIMUM from the TRAINING SET DATA observation )
