@@ -29,5 +29,5 @@ score.js:28 for feature value of  2 your accuracy is :  0.28
 1) Difference between FEATURES and LABELS
 2) When to choose FEATURES and when to discard it.
 3) Difference between TRAINING SET DATA and TEST SET data, and use of each for each other.
-4) NORMALIZATION of data (scaling the scale on a scale of 0 and 1, using MAXIMUM and MINIMUM from the TRAINING SET DATA observation )
+4) NORMALIZATION of data (scaling the scale on a scale of 0 and 1, using MAXIMUM and MINIMUM from the TEST SET DATA to train the TRAINING SET DATA )
 5) COMMON DATA STRUCTURES to be used - arrays of arrays , to be later discovered when learning TENSORFLOW_JS having the functioning like LODASH library but more perfomant like industry standard PYTHON library NUMPY for numbers. 
