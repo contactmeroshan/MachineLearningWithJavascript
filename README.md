@@ -1,5 +1,6 @@
 # Machine Learning With Javascript
-mainly focussed on LINEAR REGRESSION and CLASSIFICATION algorithm chosen.
+mainly focussed on LINEAR REGRESSION and CLASSIFICATION algorithm chosen. 
+SOURCE UDEMY course - https://github.com/StephenGrider/MLCasts. 
 
 ## 1) FEATURE(variable) objective analysis with K value using KNN(K nearest neighbour algorithm for our HTML page javascript game- like PLINK game show )
 https://jstu.fandom.com/wiki/Plinko_board 
