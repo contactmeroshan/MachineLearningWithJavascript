@@ -4,7 +4,7 @@ mainly focussed on LINEAR REGRESSION and CLASSIFICATION algorithm chosen.
 ## 1) FEATURE(variable) objective analysis with K value using KNN(K nearest neighbour algorithm for our HTML page javascript game- like PLINK game show )
 https://jstu.fandom.com/wiki/Plinko_board 
 
-this problem has a definite set of outputs , so its a CLASSFICATION PROBLEM , not the REGRESSION problem where range of values might be the prediction points. 
+### This problem has a definite set of outputs , so its a CLASSFICATION PROBLEM , not the REGRESSION problem where range of values might be the prediction points. 
 Keeping all other FEATURES as is, K =10, 11, 12 gave about 20 to 30 percent prediction .
 
 Then narrowing the testing with value of K=10, 11 AND 12.
